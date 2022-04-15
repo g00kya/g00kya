@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm g00kya</h1>
 <h3 align="center">A frontend developer interested in security :></h3>
 <br>
-- 🌱 I’m currently learning **Cryptography** **science**
+- 🌱 I’m currently learning **Cryptography**
 
 - 📫 How to reach me **gökya#8667**
 <br>
