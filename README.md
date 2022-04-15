@@ -2,11 +2,13 @@
 <h3 align="center">A frontend developer interested in security :></h3>
 <br>
 
-- 🌱 I’m currently learning **cryptography science**
+-  I’m currently learning **cryptography science**
 
-- 📫 How to reach me **gökya#8667**
+-  You can reach me on discord **gökya#8667**
 <br>
 
+<h3 align="center">A snake eat my contributions</h3>
+  
 ![snake gif](https://github.com/g00kya/g00kya/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
