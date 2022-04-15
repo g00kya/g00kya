@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Cryptography science**
 
 - 📫 How to reach me **gökya#8667**
-
-<h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 </p>
 
