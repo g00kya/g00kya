@@ -1,16 +1,33 @@
 
-```⠀
+```py
+from Github.Readme import ReadmeProfile
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ▄████  ▒█████   ██ ▄█▀▓██   ██▓ ▄▄▄      
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ██▒ ▀█▒▒██▒  ██▒ ██▄█▒  ▒██  ██▒▒████▄    
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▒██░▄▄▄░▒██░  ██▒▓███▄░   ▒██ ██░▒██  ▀█▄  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀░▓█  ██▓▒██   ██░▓██ █▄   ░ ▐██▓░░██▄▄▄▄██ 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀░▒▓███▀▒░ ████▓▒░▒██▒ █▄  ░ ██▒▓░ ▓█   ▓██▒
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ░▒   ▒ ░ ▒░▒░▒░ ▒ ▒▒ ▓▒   ██▒▒▒  ▒▒   ▓▒█░
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ░   ░   ░ ▒ ▒░ ░ ░▒ ▒░ ▓██ ░▒░   ▒   ▒▒ ░
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀░ ░   ░ ░ ░ ░ ▒  ░ ░░ ░  ▒ ▒ ░░    ░   ▒   
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀     ░     ░ ░  ░  ░    ░ ░           ░  ░
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀     ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀                ░ ░               
+class g00kya(ReadmeProfile):
+    def __init__(self):
+        self.Username = "gokya"
+        self.Contacts = {
+            "Discord": "gokya#8667",
+            "Mail": "g0kya@protonmail.com",
+        }
+        self.Alias = {
+            "g0kya",
+            "gokya"
+        }
+        self.Infos = """
+            Hey, my name is Gokay and I'm 17 y/o frontend developer interested in security i hope you enjoy my codes
+        """        
+        self.Knowledge = {
+            "Web": {
+                "Html", "Css", "Javascript", "Php", "Sql"
+            },
+            "Basic": {
+                "Python", "Csharp", "Nodejs"
+            },
+            "Learning": {
+                "Crypters", "Binders"
+            }
+        }
+             
 ```
 <hr>
 <h1 align="center">A frontend developer interested in security</h1>
@@ -19,7 +36,7 @@
 
 - > I'm open to helps about **binders** and **crypters**
 
-- > You can contact me on discord **gökya#8667** or **g0kya@protonmail.com**
+- > You can contact me on discord **gokya#8667** or **g0kya@protonmail.com**
 
 <br>
 
