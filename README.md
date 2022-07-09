@@ -12,10 +12,7 @@ class g00kya(ReadmeProfile):
         self.Alias = {
             "g0kya",
             "gokya"
-        }
-        self.Infos = """
-            Hey, my name is Gokay and I'm 17 y/o frontend developer interested in security i hope you enjoy my codes
-        """        
+        }       
         self.Knowledge = {
             "Web": {
                 "Html", "Css", "Javascript", "Php", "Sql"
@@ -30,17 +27,11 @@ class g00kya(ReadmeProfile):
              
 ```
 <hr>
-<h1 align="center">A frontend developer interested in security</h1>
-
-- > I’m currently learning **cryptography science**
-
-- > I'm open to helps about **binders** and **crypters**
 
 - > You can contact me on discord **gokya#8667** or **g0kya@protonmail.com**
 
 <br>
 
- *A snake eat my contributions*
 ![snake gif](https://github.com/g00kya/g00kya/blob/output/github-contribution-grid-snake.svg)
 
 
